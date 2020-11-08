@@ -10,4 +10,4 @@ Technologies used:
 
 Proposed Architecture:
 
-![Proposed Architecture](https://drive.google.com/file/d/1n3MBjNQ0w3XOi5ZVOlWj3sfdZQmSS1S9/view?usp=sharing)
+![Proposed Architecture](https://geojson-desafio.s3.amazonaws.com/arq.png)
